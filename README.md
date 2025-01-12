@@ -2,6 +2,8 @@
 
 ### ESD Term 5 - 2D Project (Engineering Systems Architecture & Manufacturing and Service Operations)
 
+![Repository Image](/the%20cabin%20crew.jpg)
+
 ### Problem 9, Challenge Topic: Priority Queue Operation
 
 ## Description
